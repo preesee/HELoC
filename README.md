@@ -13,6 +13,9 @@ flair 0.7 <br />
 pycparser 2.20 <br />
 javalang 0.13.0 <br />
 gensim 3.8.3 <br />
+loguru <br/>
+sentence-transformers <br/>
+dgl-cu111 <br/>
 # Pre-training Dataset <br />
 The pre-training dataset we use is the Java-Large dataset published by [Code2vec](https://dl.acm.org/doi/abs/10.1145/3290353), which contains about 4 million Java files collected from GitHub.
 # Run <br />
