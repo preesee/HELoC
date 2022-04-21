@@ -298,10 +298,10 @@ def getMaxDeep(data_path,maxDeep,dataSetName='oj'):
 
 
 
-datapath='data/gcj/test.pkl'
-maxDeep = [1]
-getMaxDeep(datapath,maxDeep,'gcj')
-print(maxDeep[0])
+# datapath='data/gcj/test.pkl'
+# maxDeep = [1]
+# getMaxDeep(datapath,maxDeep,'gcj')
+# print(maxDeep[0])
 # # data=pd.read_csv('data/bcb/bcb_funcs.tsv', sep='\t', header=0, encoding='utf-8')
 # # data=pd.read_pickle('data/gcj/test.pkl')
 # data=pd.read_pickle('data/oj/programs.pkl')
