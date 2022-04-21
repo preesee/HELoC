@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
 class ASTNode(object):
     def __init__(self, node):
         self.node = node
@@ -112,7 +112,7 @@ class SingleNode(ASTNode):
         if lower and is_name:
             token = token.lower()
         return token
-=======
+#=======
 class ASTNode(object):
     def __init__(self, node):
         self.node = node
@@ -226,4 +226,4 @@ class SingleNode(ASTNode):
         if lower and is_name:
             token = token.lower()
         return token
->>>>>>> e619495dbab18b673a36e54a8b1a15160b84de14
+#>>>>>>> e619495dbab18b673a36e54a8b1a15160b84de14
